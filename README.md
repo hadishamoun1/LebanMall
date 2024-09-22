@@ -74,14 +74,13 @@
 
 ### User Screens (Mobile)
 
-| Login screen                              | Register screen                         | Landing screen                          | Nearby stores screen                          |
-| ----------------------------------------- | --------------------------------------- | --------------------------------------- | --------------------------------------- |
-| ![Landing](readme/images/login.png)       | ![fsdaf](readme/images/signup.png)      | ![fsdaf](readme/images/home.png)        | ![fsdaf](readme/images/nearby.png)        |
-| Profile screen                               | Cart Screen                             | Payment Screen                            | Checkout Screen                         |
-| ![Landing](./readme/images/profile.png) | ![fsdaf](./readme/images/cart.png) | ![fsdaf](./readme/images/payment.png) | ![fsdaf](https://placehold.co/900x1600) |
+| Login screen                                | Register screen                       | Landing screen                     | Nearby stores screen                  |
+| ------------------------------------------- | ------------------------------------- | ---------------------------------- | ------------------------------------- |
+| ![Landing](readme/images/login.png)         | ![fsdaf](readme/images/signup.png)    | ![fsdaf](readme/images/home.png)   | ![fsdaf](readme/images/nearby.png)    |
+| AI Search Engine screen                     | Profile Screen                        | Cart Screen                        | Payment Screen                        |
+| ![Landing](./readme/images/ai%20search.png) | ![fsdaf](./readme/images/profile.png) | ![fsdaf](./readme/images/cart.png) | ![fsdaf](./readme/images/payment.png) |
 
-
-| Profile screen                            | Cart screen                       | Payment screen                        |
+| Profile screen                          | Cart screen                           | Payment screen                        |
 | --------------------------------------- | ------------------------------------- | ------------------------------------- |
 | ![Landing](./readme/demo/1440x1024.png) | ![fsdaf](./readme/demo/1440x1024.png) | ![fsdaf](./readme/demo/1440x1024.png) |
 | Home screen                             | Menu Screen                           | Order Screen                          |
