@@ -74,34 +74,31 @@
 
 ### User Screens (Mobile)
 
-| Login screen                             | Register screen                       |
-| ---------------------------------------- | ------------------------------------- |
-| ![Landing](readme/images/login.png)      | ![fsdaf](readme/images/signup.png)    |
-| AI Search Engine screen                  | Profile Screen                        |
-| ---------------------------------------- | ------------------------------------- |
+|               Login screen               |            Register screen            |
+| :--------------------------------------: | :-----------------------------------: |
+|   ![Landing](readme/images/login.png)    |  ![fsdaf](readme/images/signup.png)   |
+|         AI Search Engine screen          |            Profile Screen             |
 | ![Landing](./readme/images/aisearch.png) | ![fsdaf](./readme/images/profile.png) |
-| Landing screen                           | Nearby stores screen                  |
-| ---------------------------------------- | ------------------------------------- |
-| ![fsdaf](readme/images/home.png)         | ![fsdaf](readme/images/nearby.png)    |
-| Cart Screen                              | Payment Screen                        |
-| ---------------------------------------- | ------------------------------------- |
-| ![fsdaf](./readme/images/cart.png)       | ![fsdaf](./readme/images/payment.png) |
+|              Landing screen              |         Nearby stores screen          |
+|     ![fsdaf](readme/images/home.png)     |  ![fsdaf](readme/images/nearby.png)   |
+|               Cart Screen                |            Payment Screen             |
+|    ![fsdaf](./readme/images/cart.png)    | ![fsdaf](./readme/images/payment.png) |
 
 ### Stores Screens (Web)
 
-| Login screen                              |
-| ----------------------------------------- |
+|               Login screen                |
+| :---------------------------------------: |
 | ![Landing](./readme/images/login-web.png) |
-| Signup screen                             |
+|               Signup screen               |
 | ![fsdaf](./readme/images/signup-web.png)  |
-| Edit Store screen                         |
+|             Edit Store screen             |
 | ![Landing](./readme/images/editstore.png) |
-| View Store screen                         |
-| ![fsdaf](./readme/images/viewstore.png)   |
-| Add Products Screen                       |
+|             View Store screen             |
+|  ![fsdaf](./readme/images/viewstore.png)  |
+|            Add Products Screen            |
 | ![fsdaf](./readme/images/addproduct.png)  |
-| Discounts Screen                          |
-| ![fsdaf](./readme/images/discounts.png)   |
+|             Discounts Screen              |
+|  ![fsdaf](./readme/images/discounts.png)  |
 
 <br><br>
 
