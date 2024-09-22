@@ -86,14 +86,19 @@
 
 ### Stores Screens (Web)
 
-| Login screen                              | Signup screen                            |
-| ----------------------------------------- | ---------------------------------------- |
-| ![Landing](./readme/images/login-web.png) | ![fsdaf](./readme/images/signup-web.png) |
-| Edit Store screen                         | Add Products Screen                      |
-| ![Landing](./readme/images/editstore.png) | ![fsdaf](./readme/images/addproduct.png) |
-| View Store screen                         | Discounts Screen                         |
-| ---------------------------------------   | ---------------------------------------  |
-| ![fsdaf](./readme/images/viewstore.png)   | ![fsdaf](./readme/images/discounts.png)  |
+| Login screen  
+| -----------------------------------------
+| ![Landing](./readme/images/login-web.png)
+| Signup screen |
+| ![fsdaf](./readme/images/signup-web.png) |
+| Edit Store screen  
+| ![Landing](./readme/images/editstore.png)
+| View Store screen  
+| ![fsdaf](./readme/images/viewstore.png)  
+| Add Products Screen |
+| ![fsdaf](./readme/images/addproduct.png) |
+| Discounts Screen |
+| ![fsdaf](./readme/images/discounts.png) |
 
 <br><br>
 
