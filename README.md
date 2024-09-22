@@ -78,7 +78,7 @@
 | ------------------------------------------- | ------------------------------------- | ---------------------------------- | ------------------------------------- |
 | ![Landing](readme/images/login.png)         | ![fsdaf](readme/images/signup.png)    | ![fsdaf](readme/images/home.png)   | ![fsdaf](readme/images/nearby.png)    |
 | AI Search Engine screen                     | Profile Screen                        | Cart Screen                        | Payment Screen                        |
-| ![Landing](./readme/images/ai%20search.png) | ![fsdaf](./readme/images/profile.png) | ![fsdaf](./readme/images/cart.png) | ![fsdaf](./readme/images/payment.png) |
+| ![Landing](./readme/images/aisearch.png) | ![fsdaf](./readme/images/profile.png) | ![fsdaf](./readme/images/cart.png) | ![fsdaf](./readme/images/payment.png) |
 
 | Profile screen                          | Cart screen                           | Payment screen                        |
 | --------------------------------------- | ------------------------------------- | ------------------------------------- |
