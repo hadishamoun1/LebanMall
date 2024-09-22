@@ -80,11 +80,13 @@
 | AI Search Engine screen                     | Profile Screen                        | Cart Screen                        | Payment Screen                        |
 | ![Landing](./readme/images/aisearch.png) | ![fsdaf](./readme/images/profile.png) | ![fsdaf](./readme/images/cart.png) | ![fsdaf](./readme/images/payment.png) |
 
-| Profile screen                          | Cart screen                           | Payment screen                        |
+### Stores Screens (Web)
+
+| Login screen                          | Signup screen                           | View Store screen                        |
 | --------------------------------------- | ------------------------------------- | ------------------------------------- |
-| ![Landing](./readme/demo/1440x1024.png) | ![fsdaf](./readme/demo/1440x1024.png) | ![fsdaf](./readme/demo/1440x1024.png) |
-| Home screen                             | Menu Screen                           | Order Screen                          |
-| ![Landing](./readme/demo/1440x1024.png) | ![fsdaf](./readme/demo/1440x1024.png) | ![fsdaf](./readme/demo/1440x1024.png) |
+| ![Landing](./readme/images/login-web.jpeg) | ![fsdaf](./readme/images/signup-web.jpeg) | ![fsdaf](./readme/images/viewstore.jpeg) |
+| Edit Store screen                             | Add Products Screen                           | Discounts Screen                          |
+| ![Landing](./readme/images/editstore.jpeg) | ![fsdaf](./readme/images/addproduct.jpeg | ![fsdaf](./readme/images/discounts.jpeg) |
 
 <br><br>
 
