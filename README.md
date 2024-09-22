@@ -5,47 +5,57 @@
 <!-- project philosophy -->
 <img src="./readme/title2.svg"/>
 
-> A mobile app  that combines the best of Lebanese clothing, accessories, and various other products into a single, easy-to-use application. By leveraging advanced AI technology, we strive to enhance the shopping experience, foster local businesses, and connect customers with high-quality, unique items from across Lebanon.
+> A mobile app that combines the best of Lebanese clothing into a single, easy-to-use application. By leveraging advanced AI technology, we strive to enhance the shopping experience, foster local businesses, and connect customers with high-quality, unique items from across Lebanon.
 >
-> LebanMall aims to become the leading digital marketplace in Lebanon, offering a seamless shopping experience that brings together a diverse range of products from local stores and artisans. We aim to celebrate and promote Lebanese culture and craftsmanship while providing unparalleled convenience and accessibility to our users.
+> Vesti aims to become the leading digital marketplace in Lebanon, offering a seamless shopping experience that brings together a diverse range of products from local stores and artisans. We aim to celebrate and promote Lebanese culture and craftsmanship while providing unparalleled convenience and accessibility to our users.
 
 ### User Stories
-- As a user,I want to browse different categories of products, so that I can easily find items I am interested in.
-- As a user, I want to search for specific products using keywords and filters or using ai by inserting pictures, so that I can quickly find what I am looking for.
-- As a user,  I want to see personalized product recommendations, so that I can discover items that match my tastes and preferences.
-- As a User, I want to view detailed information about a product, including images, descriptions, sizes, and reviews, so that I can make informed purchasing decisions.
-- As a User, I want to read reviews and ratings from other customers, so that I can gauge the quality and popularity of a product.
-- As a User, I want to add products to my shopping cart, so that I can review my selections before purchasing.
-- As a User, I want to apply discount codes or promotions at checkout, so that I can save money on my purchases.
-- As a User, I want to choose from multiple payment options, including credit card, PayPal, and cash on delivery, so that I can pay in the most convenient way for me.
-- As a User, I want to receive order confirmation and tracking information, so that I know the status of my purchase and delivery.
 
+#### &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; As a User:
+
+- I want to browse different categories of products, so that I can easily find items I am interested in.
+- I want to receive automatic notifictions so that i can know if a store nearby is making any discounts.
+- I want to be able to upload an image and see similar products of it using ai search engine.
+- I want to see personalized product recommendations, so that I can discover items that match my tastes and preferences.
+- I want to view detailed information about a product, including images, descriptions, sizes, so that I can make informed purchasing decisions.
+- I want to add products to my shopping cart, so that I can review my selections before purchasing.
+- I want to choose from multiple payment options, including credit card, PayPal, and cash on delivery, so that I can pay in the most convenient way for me.
+
+#### &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; As a Store:
+
+- I want to be able to upload the store image, name, description and location.
+- I want to be able to upload products with image, price, description, colors, and sizes.
+- I want to be able to add discounts on products and view active and inactive discounts.
+- I want to be able to send notifications to customers ing=forming them of a discount.
 
 <br><br>
+
 <!-- Tech stack -->
 <img src="./readme/title3.svg"/>
 
-###  Coffee Express is built using the following technologies:
+### Vesti is built using the following technologies:
 
 - This project uses the [Flutter app development framework](https://flutter.dev/). Flutter is a cross-platform hybrid app development platform which allows us to use a single codebase for apps on mobile, desktop, and the web.
-- For persistent storage (database), the app uses the [Hive](https://hivedb.dev/) package which allows the app to create a custom storage schema and save it to a local database.
-- To send local push notifications, the app uses the [flutter_local_notifications](https://pub.dev/packages/flutter_local_notifications) package which supports Android, iOS, and macOS.
-  - 🚨 Currently, notifications aren't working on macOS. This is a known issue that we are working to resolve!
-- The app uses the font ["Work Sans"](https://fonts.google.com/specimen/Work+Sans) as its main font, and the design of the app adheres to the material design guidelines.
+- The app uses a trained model for similarity detection using FAISS, enabling efficient and scallable similarity searches across large datasets.
+- For persistent storage (database), the app uses the [Postgre SQL](https://www.postgresql.org/) , the app uses the sequelize ORM package, allowing the app to define custom models and seamlesly store them in a Postgresql database.
+- To send automatic notifications, the app uses the [firebase Cloud Messaging](https://firebase.google.com/docs/cloud-messaging/), a service that enables reliable, real-time, and event-driven communication between the app and user's device.
+- For the stores web app, the app uses the React Leaflet package, an open-source library for creating interactive maps, while the mobile app integrates flutter_OpenStreetMap to display maps and retrieve the user's location.
+- This project is built with ReactJS, a JavaScript library focused on creating dynamic, component-based user interfaces.
+- The app uses the font ["Poppins"](https://fonts.google.com/specimen/Poppins) as its main font, and the design of the app adheres to the material design guidelines.
 
 <br><br>
+
 <!-- UI UX -->
 <img src="./readme/title4.svg"/>
 
+> We designed Vesti using wireframes, iterating on the design until we reached the ideal layout for easy navigation and a seamless user experience.
 
-> We designed Coffee Express using wireframes and mockups, iterating on the design until we reached the ideal layout for easy navigation and a seamless user experience.
-
-- Project Figma design [figma](https://www.figma.com/file/LsuOx5Wnh5YTGSEtrgvz4l/Purrfect-Pals?type=design&node-id=257%3A79&mode=design&t=adzbABt5hbb91ucZ-1)
-
+- Project Figma design [figma](https://www.figma.com/design/IV03weUBysFlCVYp1xjnIF/Untitled?node-id=0-1&node-type=canvas&t=xaNgsgUaaCiIkGG7-0)
 
 ### Mockups
-| Home screen  | Menu Screen | Order Screen |
-| ---| ---| ---|
+
+| Home screen                             | Menu Screen                           | Order Screen                          |
+| --------------------------------------- | ------------------------------------- | ------------------------------------- |
 | ![Landing](./readme/demo/1440x1024.png) | ![fsdaf](./readme/demo/1440x1024.png) | ![fsdaf](./readme/demo/1440x1024.png) |
 
 <br><br>
@@ -53,39 +63,37 @@
 <!-- Database Design -->
 <img src="./readme/title5.svg"/>
 
-###  Architecting Data Excellence: Innovative Database Design Strategies:
+### Architecting Data Excellence: Innovative Database Design Strategies:
 
 - Insert ER Diagram here
 
-
 <br><br>
-
 
 <!-- Implementation -->
 <img src="./readme/title6.svg"/>
 
-
 ### User Screens (Mobile)
-| Login screen  | Register screen | Landing screen | Loading screen |
-| ---| ---| ---| ---|
-| ![Landing](https://placehold.co/900x1600) | ![fsdaf](https://placehold.co/900x1600) | ![fsdaf](https://placehold.co/900x1600) | ![fsdaf](https://placehold.co/900x1600) |
-| Home screen  | Menu Screen | Order Screen | Checkout Screen |
+
+| Login screen                              | Register screen                         | Landing screen                          | Loading screen                          |
+| ----------------------------------------- | --------------------------------------- | --------------------------------------- | --------------------------------------- |
+| ![Landing](readme/images/login.png)       | ![fsdaf](readme/images/signup.png)      | ![fsdaf](https://placehold.co/900x1600) | ![fsdaf](https://placehold.co/900x1600) |
+| Home screen                               | Menu Screen                             | Order Screen                            | Checkout Screen                         |
 | ![Landing](https://placehold.co/900x1600) | ![fsdaf](https://placehold.co/900x1600) | ![fsdaf](https://placehold.co/900x1600) | ![fsdaf](https://placehold.co/900x1600) |
 
 ### Admin Screens (Web)
-| Login screen  | Register screen |  Landing screen |
-| ---| ---| ---|
+
+| Login screen                            | Register screen                       | Landing screen                        |
+| --------------------------------------- | ------------------------------------- | ------------------------------------- |
 | ![Landing](./readme/demo/1440x1024.png) | ![fsdaf](./readme/demo/1440x1024.png) | ![fsdaf](./readme/demo/1440x1024.png) |
-| Home screen  | Menu Screen | Order Screen |
+| Home screen                             | Menu Screen                           | Order Screen                          |
 | ![Landing](./readme/demo/1440x1024.png) | ![fsdaf](./readme/demo/1440x1024.png) | ![fsdaf](./readme/demo/1440x1024.png) |
 
 <br><br>
 
-
 <!-- Prompt Engineering -->
 <img src="./readme/title7.svg"/>
 
-###  Mastering AI Interaction: Unveiling the Power of Prompt Engineering:
+### Mastering AI Interaction: Unveiling the Power of Prompt Engineering:
 
 - This project uses advanced prompt engineering techniques to optimize the interaction with natural language processing models. By skillfully crafting input instructions, we tailor the behavior of the models to achieve precise and efficient language understanding and generation for various tasks and preferences.
 
@@ -94,7 +102,7 @@
 <!-- AWS Deployment -->
 <img src="./readme/title8.svg"/>
 
-###  Efficient AI Deployment: Unleashing the Potential with AWS Integration:
+### Efficient AI Deployment: Unleashing the Potential with AWS Integration:
 
 - This project leverages AWS deployment strategies to seamlessly integrate and deploy natural language processing models. With a focus on scalability, reliability, and performance, we ensure that AI applications powered by these models deliver robust and responsive solutions for diverse use cases.
 
@@ -103,12 +111,11 @@
 <!-- Unit Testing -->
 <img src="./readme/title9.svg"/>
 
-###  Precision in Development: Harnessing the Power of Unit Testing:
+### Precision in Development: Harnessing the Power of Unit Testing:
 
 - This project employs rigorous unit testing methodologies to ensure the reliability and accuracy of code components. By systematically evaluating individual units of the software, we guarantee a robust foundation, identifying and addressing potential issues early in the development process.
 
 <br><br>
-
 
 <!-- How to run -->
 <img src="./readme/title10.svg"/>
@@ -118,7 +125,8 @@
 ### Prerequisites
 
 This is an example of how to list things you need to use the software and how to install them.
-* npm
+
+- npm
   ```sh
   npm install npm@latest -g
   ```
@@ -136,7 +144,7 @@ _Below is an example of how you can instruct your audience on installing and set
    ```
 4. Enter your API in `config.js`
    ```js
-   const API_KEY = 'ENTER YOUR API';
+   const API_KEY = "ENTER YOUR API";
    ```
 
 Now, you should be able to run Coffee Express locally and explore its features.
