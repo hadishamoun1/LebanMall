@@ -74,14 +74,16 @@
 
 ### User Screens (Mobile)
 
-| Login screen | Landing screen | Nearby stores screen |
-| ------------ | -------------- | -------------------- |
-
-| ![Landing](readme/images/login.png)  
- | Register screen  
- | ![fsdaf](readme/images/signup.png) | ![fsdaf](readme/images/home.png) | ![fsdaf](readme/images/nearby.png) |
-| AI Search Engine screen | Profile Screen | Cart Screen | Payment Screen |
-| ![Landing](./readme/images/aisearch.png) | ![fsdaf](./readme/images/profile.png) | ![fsdaf](./readme/images/cart.png) | ![fsdaf](./readme/images/payment.png) |
+| Login screen                             | Register screen                       |
+| ---------------------------------------- | ------------------------------------- |
+| ![Landing](readme/images/login.png)      | ![fsdaf](readme/images/signup.png)    |
+| AI Search Engine screen                  | Profile Screen                        |
+| ![Landing](./readme/images/aisearch.png) | ![fsdaf](./readme/images/profile.png) |
+| Landing screen                           | Nearby stores screen                  |
+| ----------------------------------       | ------------------------------------- |
+| ![fsdaf](readme/images/home.png)         | ![fsdaf](readme/images/nearby.png)    |
+| Cart Screen                              | Payment Screen                        |
+| ![fsdaf](./readme/images/cart.png)       | ![fsdaf](./readme/images/payment.png) |
 
 ### Stores Screens (Web)
 
