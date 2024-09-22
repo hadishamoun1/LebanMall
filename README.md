@@ -76,9 +76,9 @@
 
 | Login screen                                           | Register screen                                       | Landing screen                                     | Nearby stores screen                                  |
 | ------------------------------------------------------ | ----------------------------------------------------- | -------------------------------------------------- | ----------------------------------------------------- |
-| <img src="readme/images/login.png" width="200px">      | <img src="readme/images/signup.png" width="200px">    | <img src="readme/images/home.png" width="200px">   | <img src="readme/images/nearby.png" width="200px">    |
+| <img src="readme/images/login.png" width="500px">      | <img src="readme/images/signup.png" width="500px">    | <img src="readme/images/home.png" width="500px">   | <img src="readme/images/nearby.png" width="500px">    |
 | AI Search Engine screen                                | Profile Screen                                        | Cart Screen                                        | Payment Screen                                        |
-| <img src="./readme/images/aisearch.png" width="200px"> | <img src="./readme/images/profile.png" width="200px"> | <img src="./readme/images/cart.png" width="200px"> | <img src="./readme/images/payment.png" width="200px"> |
+| <img src="./readme/images/aisearch.png" width="500px"> | <img src="./readme/images/profile.png" width="500px"> | <img src="./readme/images/cart.png" width="500px"> | <img src="./readme/images/payment.png" width="200px"> |
 
 ### Stores Screens (Web)
 
